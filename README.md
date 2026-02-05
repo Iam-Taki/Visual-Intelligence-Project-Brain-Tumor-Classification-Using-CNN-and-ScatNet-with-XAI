@@ -202,7 +202,7 @@ Clinical validation with expert annotations
 
 👤 Author
 
-Abdullah Al Noman Taki
+# Abdullah Al Noman Taki
 
 M.Sc. Artificial Intelligence
 
